@@ -1,0 +1,6 @@
+groq
+pandas
+pypdf
+sentence-transformers
+scikit-learn
+torch
